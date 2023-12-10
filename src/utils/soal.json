@@ -1,0 +1,33 @@
+{
+  "level1": [
+    { "gambar": "/SoalTebakGambar/Soal 1.png", "jawaban": "Apel Merah" },
+    { "gambar": "/SoalTebakGambar/Soal 2.png", "jawaban": "Bunga Matahari" },
+    { "gambar": "/SoalTebakGambar/Soal 3.png", "jawaban": "Papeda" },
+    { "gambar": "/SoalTebakGambar/Soal 4.png", "jawaban": "Bola Kaki" },
+    { "gambar": "/SoalTebakGambar/Soal 5.png", "jawaban": "Sepatu Kaca" }
+  ],
+  "level2": [
+    { "gambar": "/SoalTebakGambar/Soal 6.png", "jawaban": "Bantal Guling" },
+    { "gambar": "/SoalTebakGambar/Soal 7.png", "jawaban": "Rumah Tangga" },
+    { "gambar": "/SoalTebakGambar/Soal 8.png", "jawaban": "Senam Otak" },
+    { "gambar": "/SoalTebakGambar/Soal 9.png", "jawaban": "Komputer Lelet" },
+    { "gambar": "/SoalTebakGambar/Soal 10.png", "jawaban": "Buah Hati" }
+  ],
+  "level3": [
+    { "gambar": "/SoalTebakGambar/Soal 11.png", "jawaban": "Imajinasi" },
+    { "gambar": "/SoalTebakGambar/Soal 12.png", "jawaban": "Jebakan Batman" },
+    { "gambar": "/SoalTebakGambar/Soal 13.png", "jawaban": "Kunci Inggris" },
+    { "gambar": "/SoalTebakGambar/Soal 14.png", "jawaban": "Kaca Mata" },
+    { "gambar": "/SoalTebakGambar/Soal 15.png", "jawaban": "Angin Duduk" }
+  ],
+  "level4": [
+    { "gambar": "/SoalTebakGambar/Soal 16.png", "jawaban": "Surabaya" },
+    { "gambar": "/SoalTebakGambar/Soal 17.png", "jawaban": "Jatuh Cinta" },
+    {
+      "gambar": "/SoalTebakGambar/Soal 18.png",
+      "jawaban": "Perintah Komandan"
+    },
+    { "gambar": "/SoalTebakGambar/Soal 19.png", "jawaban": "Uang Panas" },
+    { "gambar": "/SoalTebakGambar/Soal 20.png", "jawaban": "Telur Asin" }
+  ]
+}
